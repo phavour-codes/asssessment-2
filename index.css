@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #6abadeba;
+    margin: 0px;
+    padding: 0;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+    width: 300px;
+    margin: 0 auto;
+    margin: 20 0 0 450px;
+    padding: 80px;
+    background: #23463f;
+    border-radius: 15px;
+}
+
+h2{
+    text-align: center;
+    color: #277582;
+    padding: 20px;
+}
+
+label{
+    color: #08ffd1;
+    font-size: 17px;
+}
+
+
+
+input [ type=text] [type=password] {
+    width: 270px;
+    padding: 14px 20px;
+    margin: 8opx 18px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+button {
+    background-color: #04AA6d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+
+.cancelbtn {
+    width: 100px;
+}
+
+.login{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 27px;
+    padding-right: 27px;
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#uname{
+    width:300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+
+#pass{
+    width:300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+    margin-top: 3px;
+}
+
+a{
+    
+
+    background-color: gray;
+}
